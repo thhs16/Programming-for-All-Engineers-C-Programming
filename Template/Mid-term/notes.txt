@@ -1,0 +1,10 @@
+1A    => 1/3 the decimal point is not working.
+1B    => pow() is not working
+1C    => I do not understand the question.
+
+Q2(A)   => waiting
+Q2(B)   => like the star prob
+Q2(C)   => I do not understand the question
+
+
+////
