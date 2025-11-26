@@ -1,0 +1,36 @@
+// Name : Thae Htape Htar San
+// ID : 68070503468
+// PURPOSE :
+
+#include <stdio.h>
+
+    // int even(){
+    
+    // }
+
+int main(){
+
+        // int num;
+
+        // for (int i = 0; i < 6; i++)
+        // {
+        //     scanf(" %d", &num);
+        // }
+        
+        // printf("%d", num);
+        printf("Hello word");
+        
+        return 0;
+}
+
+switch (expression)
+{
+case constant expression:
+    /* code */
+    break;
+
+default:
+    break;
+}
+
+bubbleSortAscending()

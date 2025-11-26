@@ -1,0 +1,22 @@
+// Name : Thae Htape Htar San
+// ID : 68070503468
+// PURPOSE :
+
+#include <stdio.h>
+
+    // int even(){
+    
+    // }
+
+int main(){
+
+        int num;
+
+        
+            scanf(" %d", &num);
+        
+        
+            printf("num : %d", num);
+        
+        return 0;
+}
