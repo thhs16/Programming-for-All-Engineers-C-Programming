@@ -1,10 +1,10 @@
-// Name : Thae Htape Htar San
-// ID : 68070503468
-// PURPOSE :
+// Name : 
+// ID : 
+// PURPOSE : 
 
-#include <stdio.h>
+        int main() {
 
-        int main(){
-                
+
+
                 return 0;
         }
